@@ -115,7 +115,6 @@ The tool also supports **attack simulation** for research on **false data inject
 ## 🧪 Research Applications
 
 This tool is actively used for research on:
-- Watermarking-based authentication of GOOSE messages  
 - Cyber-attack detection using state-number tracking and timing features  
 - IEC 61850-8-1 communication validation and protection scheme testing  
 - Security analysis of **Digital Substation Automation Systems (DSAS)**  
